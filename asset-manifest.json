@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-timer/static/js/main.29cfc5ef.js",
+    "main.js": "/react-timer/static/js/main.50fe9bfb.js",
     "index.html": "/react-timer/index.html",
-    "main.29cfc5ef.js.map": "/react-timer/static/js/main.29cfc5ef.js.map"
+    "main.50fe9bfb.js.map": "/react-timer/static/js/main.50fe9bfb.js.map"
   },
   "entrypoints": [
-    "static/js/main.29cfc5ef.js"
+    "static/js/main.50fe9bfb.js"
   ]
 }
